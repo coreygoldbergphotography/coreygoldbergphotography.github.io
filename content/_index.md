@@ -6,9 +6,5 @@ menus:
   main:
     name: Home
     weight: -1
-    
+
 Shooting people doing awesome things
-
-in the outdoors
-
-with a camera!
