@@ -5,6 +5,11 @@ main h1 {
 }
 
 .gallery-title {
-    font-size: 5rem;
+    font-size: 3rem;
+    text-align: center;
+}
+
+a.btn {
+    font-size: 3rem;
     text-align: center;
 }
