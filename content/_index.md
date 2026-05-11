@@ -1,5 +1,5 @@
 ---
-title: "Corey's Portfolio"
+title: "Portfolio"
 date: 2026-04-06
 menus:
   main:
@@ -7,4 +7,4 @@ menus:
     weight: -1
 ---
 
-Shooting people doing awesome things
+
