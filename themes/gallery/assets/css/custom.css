@@ -2,5 +2,9 @@
 .site-title,
 .album-title,
 main h1 {
-  font-size: 5rem;
+  font-size: 3rem;
+}
+
+h1.site-title {
+    font-size: 5rem !important;
 }
