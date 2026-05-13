@@ -8,7 +8,7 @@ theme = "gallery"
 
 [params]
    defaultTheme = "dark"
-   customCSS = ["CSS/custom.css"]
+   customCSS = ["css/custom.css"]
 
 [params.sidebar]
   subtitle = "Outdoor Adventure & Snowsports Photography"
