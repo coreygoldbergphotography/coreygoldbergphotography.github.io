@@ -8,10 +8,4 @@ menu:
 ---
 
     
-Hi I am Corey
-
-I shoot _things_
-
-in the *outdoors*
-
-with a **camera!**
+Coming soon.
